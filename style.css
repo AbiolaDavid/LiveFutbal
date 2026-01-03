@@ -381,7 +381,7 @@ body {
   }
   
   .links-prompt {
-    font-size: 30px;
+    font-size: 14px;
     margin: 20px;
   }
 
@@ -390,7 +390,7 @@ body {
   }
 
   .site-subtitle {
-    font-size: 30px;
+    font-size: 16px;
 	font-weight: 200;
   }
 
@@ -433,7 +433,7 @@ body {
   }
 
   .chat-read-prompt {
-    font-size: 30px;
+    font-size: 14px;
   }
 
   .message-form {
@@ -452,7 +452,7 @@ body {
   }
 
   .stream-tip {
-    font-size: 30px;
+    font-size: 12px;
     padding: 10px 14px;
     max-width: 90%;
     margin: 15px auto;
